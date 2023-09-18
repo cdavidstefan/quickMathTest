@@ -242,7 +242,7 @@ button:active {
 }
 
 .final-time {
-  font-size: 100px;
+  font-size: 45px;
   margin: 0;
   color: var(--success);
 }
